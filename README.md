@@ -23,7 +23,7 @@ Common Blockchian is a concept invented by Daniel Cousens to normalize the diffe
 Alternatives
 ------------
 - [Helloblock](https://github.com/dcousens/cb-helloblock)
-- [Blockr](https://github.com/weilu)
+- [Blockr](https://github.com/weilu/cb-blockr)
 
 
 API
