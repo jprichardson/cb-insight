@@ -10,7 +10,7 @@ Common Blockchain
 Common Blockchian is a concept invented by Daniel Cousens to normalize the differences between Blockchain APIs so that you can easily switch APIs if you need to.
 
 
-### Cannonical Example
+### Canonical Example
 
 - [cb-helloblock](https://github.com/dcousens/cb-helloblock)
 
