@@ -1,6 +1,6 @@
 {
   "name": "cb-insight",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "common blockchain wrapper for Bitpay Insight APIs",
   "main": "./lib/index.js",
   "scripts": {
