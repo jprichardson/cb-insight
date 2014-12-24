@@ -4,7 +4,7 @@
   "description": "common blockchain wrapper for Bitpay Insight APIs",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec --timeout 15000 --grep \"Addresses Summary\"  "
+    "test": "./node_modules/.bin/mocha --reporter spec --timeout 15000 --grep \"Addresses Summary|Unspents\"  "
   },
   "repository": {
     "type": "git",
