@@ -10,11 +10,6 @@ Common Blockchain
 Common Blockchain is a concept invented by Daniel Cousens to normalize the differences between Blockchain APIs so that you can easily switch APIs if you need to.
 
 
-### Canonical Example
-
-- [cb-helloblock](https://github.com/dcousens/cb-helloblock)
-
-
 ### Testing Module
 
 - [cb-tester](https://github.com/dcousens/common-blockchain)
